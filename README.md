@@ -36,5 +36,8 @@
   - Modelos de redes neuronales (Redes Progresivas de Perceptrones )
 
 * Proyecto 1: Regresión multivariada no lineal
+  - YEAST https://archive.ics.uci.edu/ml/datasets/Yeast
 
 * Proyecto 2: Agrupamiento de bases de datos numéricas
+  - CARS https://archive.ics.uci.edu/ml/datasets/Car+Evaluation
+

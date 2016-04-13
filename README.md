@@ -2,11 +2,11 @@
 Minería de datos - ITAM
 Profesor Ángel Kuri Morales
 
-Presentación 1 – Bases de datos relacionales
-•	Antecedentes
-•	Por qué son importantes
-•	Bodegas de datos
-•	Mineros
+* Presentación 1 – Bases de datos relacionales
+  - Antecedentes
+  - Por qué son importantes
+  - Bodegas de datos
+  - Mineros
 Presentación 2 – Interpolación con splines naturales	
 •	Datos faltantes de una BD
 •	Promedios de ventanas móviles

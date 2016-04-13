@@ -1,6 +1,5 @@
-# data-mining
-Minería de datos - ITAM
-Profesor Ángel Kuri Morales
+# Minería de datos - ITAM
+## Profesor Ángel Kuri Morales
 
 * Presentación 1 – Bases de datos relacionales
   - Antecedentes
